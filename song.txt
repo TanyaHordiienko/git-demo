@@ -1,4 +1,6 @@
-hello
 hello hello
 hello world
+ok
+
+work with git gui
 ok
