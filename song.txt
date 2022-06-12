@@ -1,20 +1,7 @@
-hello hello
-hello world
-ok
+New story
+
+old story
 
 
-
-work with git gui
-ok
-
-123456
-98742
-----------
-
-good evening!
-
-morning
-
-aftenoon
 
 
