@@ -6,7 +6,3 @@ ok
 
 work with git gui
 ok
-
-123456
-98742
-----------
